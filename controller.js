@@ -23,7 +23,7 @@ function createReport(json) {
 }
 
 // create Title section
-function createTitle(metadata) {
+function createTitle(metadat) {
   $('.Meta__Government').html(metadata.municipal_body);
   $('.Meta__Title').html(metadata.title);
 }
