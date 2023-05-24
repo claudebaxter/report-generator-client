@@ -2,7 +2,7 @@
 
 View an example of a generated report using the ''?report=x'
 query like this:
-https://elborracho420.github.io/report-generator-client/view.html?report=transportation
+https://claudebaxter.github.io/report-generator-client/view.html?report=transportation
 
 Git clone this repository. From it's root directory, run
 `python -m http.server`. You should then be able to view
